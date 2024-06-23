@@ -25,6 +25,13 @@ li, .li a, .liP {
     color: beige;
 }
 
+.liP {
+    font-size: 20%;
+    font-weight: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: auto;
+}
+
 .li {
     justify-content: flex-end;
     float: right;
