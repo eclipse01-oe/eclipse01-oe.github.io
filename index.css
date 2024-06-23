@@ -22,5 +22,11 @@ li{
     color:azure;
 }
 
+.li {
+    flex: right;
+    padding: 10px;
+    gap: 5px; 
+}
+
 
 
