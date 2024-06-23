@@ -16,3 +16,9 @@ ul{
     flex-wrap: wrap;
     flex-direction: row;
 }
+
+li{
+    text-decoration: none;
+    color:azure;
+}
+
