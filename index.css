@@ -7,7 +7,7 @@
 .navBar {
     height: 50px;
     width: auto;
-    background: indigo;
+    background: #352f44;
     font-family: sans-serif;
 }
 
@@ -22,7 +22,7 @@ ul{
 li, .li a, .liP {
     text-decoration: none;
     list-style-type: none;
-    color: black; 
+    color: beige;
 }
 
 .li {
