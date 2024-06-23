@@ -19,6 +19,7 @@ ul{
 
 li{
     text-decoration: none;
+    list-style-type: none;
     color:azure;
     padding: 10px;
     gap: 50x;
