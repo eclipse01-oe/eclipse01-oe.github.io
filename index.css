@@ -26,10 +26,7 @@ li, .li a, .liP {
 
 .li {
     justify-content: flex-end;
-}
-
-#li1 {
-    padding-left: 50%;
+    float: right;
 }
 
 
