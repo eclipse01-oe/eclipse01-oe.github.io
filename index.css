@@ -12,5 +12,7 @@
 }
 
 ul{
-    flex: left;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
