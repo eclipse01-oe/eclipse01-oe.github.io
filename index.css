@@ -15,13 +15,14 @@ ul{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    float: right;
+    margin: auto 0 auto 50%;
 }
 
 li, .li a, .liP {
     text-decoration: none;
     list-style-type: none;
     color: black; 
-    padding: 10px;
 }
 
 .li {
