@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-navBar {
+.navBar {
     height: 10px;
     width: auto;
     background: indigog;
