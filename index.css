@@ -17,15 +17,15 @@ ul{
     flex-direction: row;
 }
 
-li{
+li {
+    text-decoration: none;
     list-style-type: none;
     color: black; 
     padding: 10px;
     gap: 50x;
 }
 
-.li, .li a {
-    text-decoration: none;
+.li {
     justify-content: flex-end;
 }
 
