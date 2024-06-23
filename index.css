@@ -10,3 +10,7 @@
     background: indigo;
     font-family: sans-serif;
 }
+
+ul{
+    flex: left;
+}
