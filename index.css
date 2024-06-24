@@ -39,6 +39,7 @@ li, .li a, .liP {
     justify-content: flex-end;
     float: right;
     padding: 7px;
+    padding-top: 4px;
 }
 
 
