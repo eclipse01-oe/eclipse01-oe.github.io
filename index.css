@@ -14,10 +14,11 @@
 
 ul{
     display: flex;
+    position: absolute;
     flex-wrap: wrap;
     flex-direction: row;
     float: right;
-    margin: 50% 40px auto 50%;
+    margin: auto 7px auto 50%;
     padding: auto 5px auto 7px;
 }
 
