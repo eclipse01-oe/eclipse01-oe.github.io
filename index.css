@@ -17,8 +17,8 @@ ul{
     flex-wrap: wrap;
     flex-direction: row;
     float: right;
-    margin: auto 0 auto 50%;
-    padding: auto 0 auto 5px;
+    margin: 50% 0 auto 50%;
+    padding: auto 0 auto 7px;
 }
 
 li, .li a, .liP {
@@ -42,8 +42,11 @@ li, .li a, .liP {
 }
 
 .hamburger-menu {
-    position:absolute;
-    background-color: white;
+    position: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 30px;
+    width: 5px;
 }
 
 .hamburger{
