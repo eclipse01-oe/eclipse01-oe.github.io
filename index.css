@@ -41,19 +41,4 @@ li, .li a, .liP {
     float: right;
 }
 
-.hamburger-menu {
-    position: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 20px;
-    z-index: 100;
-}
-
-.hamburger{
-    background-color: white;
-    padding: 1px;
-    width: 30px;
-    height: 3px;
-}
-
 
