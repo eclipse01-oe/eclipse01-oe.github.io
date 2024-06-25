@@ -53,8 +53,8 @@ li, .li a, .liP {
     position: absolute;
     height: 50px;
     width: 2px;
-    color: black;
-    padding: 1px; 
+    background-color: black;
+    padding: 1px;
 }
 
 
