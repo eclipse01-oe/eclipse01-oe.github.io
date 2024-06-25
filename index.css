@@ -50,9 +50,6 @@ li, .li a, .liP {
 }
 
 .hamburger{
-    position: absolute;
-    height: 50px;
-    width: 2px;
     background-color: white;
     padding: 1px;
 }
