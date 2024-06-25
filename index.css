@@ -18,7 +18,7 @@ ul{
     flex-direction: row;
     float: right;
     margin: 50% 40px auto 50%;
-    padding: auto 0 auto 7px;
+    padding: auto 5px auto 7px;
 }
 
 li, .li a, .liP {
