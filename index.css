@@ -52,6 +52,7 @@ li, .li a, .liP {
     height: 50px;
     width: 2px;
     color: black;
+    padding: 1px; 
 }
 
 
